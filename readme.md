@@ -6,7 +6,7 @@
 
 官方英文版下载地址：https://h3hota.com/ru/download
 
-5月16日更新，完善了一些小问题。加入了高清头像包使用方法见data\高清头像 文件夹
+5月16日更新，完善了一些小问题。加入了几张地图，加入了高清头像包使用方法见data\高清头像 文件夹
 
 https://www.123pan.com/s/xK30jv-zbPL3.html 提取码:FM6T
 
